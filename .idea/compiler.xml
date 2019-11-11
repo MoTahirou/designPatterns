@@ -3,6 +3,12 @@
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
       <module name="designPatterns.main" target="12" />
+      <module name="designPatterns.patternR.main" target="12" />
+      <module name="designPatterns.patternR.test" target="12" />
+      <module name="designPatterns.patternRunner.main" target="12" />
+      <module name="designPatterns.patternRunner.test" target="12" />
+      <module name="designPatterns.singleton.main" target="12" />
+      <module name="designPatterns.singleton.test" target="12" />
       <module name="designPatterns.test" target="12" />
     </bytecodeTargetLevel>
   </component>
