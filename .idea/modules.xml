@@ -3,8 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/designPatterns.iml" filepath="$PROJECT_DIR$/.idea/designPatterns.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designPatterns.main.iml" filepath="$PROJECT_DIR$/.idea/modules/designPatterns.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/designPatterns.test.iml" filepath="$PROJECT_DIR$/.idea/modules/designPatterns.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/patternRunner/designPatterns.patternRunner.iml" filepath="$PROJECT_DIR$/.idea/modules/patternRunner/designPatterns.patternRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/patternRunner/designPatterns.patternRunner.main.iml" filepath="$PROJECT_DIR$/.idea/modules/patternRunner/designPatterns.patternRunner.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/patternRunner/designPatterns.patternRunner.test.iml" filepath="$PROJECT_DIR$/.idea/modules/patternRunner/designPatterns.patternRunner.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton/designPatterns.singleton.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton/designPatterns.singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton/designPatterns.singleton.main.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton/designPatterns.singleton.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/singleton/designPatterns.singleton.test.iml" filepath="$PROJECT_DIR$/.idea/modules/singleton/designPatterns.singleton.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patternRunner/patternRunner.iml" filepath="$PROJECT_DIR$/patternRunner/patternRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
     </modules>
   </component>
 </project>
