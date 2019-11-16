@@ -9,5 +9,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="designPatterns.singleton.main" />
+    <orderEntry type="module" module-name="designPatterns.builder.main" />
   </component>
 </module>

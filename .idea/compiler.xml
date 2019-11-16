@@ -2,11 +2,15 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="designPatterns.builder.main" target="12" />
+      <module name="designPatterns.builder.test" target="12" />
       <module name="designPatterns.main" target="12" />
       <module name="designPatterns.patternR.main" target="12" />
       <module name="designPatterns.patternR.test" target="12" />
       <module name="designPatterns.patternRunner.main" target="12" />
       <module name="designPatterns.patternRunner.test" target="12" />
+      <module name="designPatterns.prototype.main" target="12" />
+      <module name="designPatterns.prototype.test" target="12" />
       <module name="designPatterns.singleton.main" target="12" />
       <module name="designPatterns.singleton.test" target="12" />
       <module name="designPatterns.test" target="12" />
