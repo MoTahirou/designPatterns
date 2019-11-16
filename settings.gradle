@@ -8,5 +8,5 @@
  */
 
 rootProject.name = 'designPatterns'
-include 'singleton', 'patternRunner'
+include 'singleton', 'patternRunner', 'builder', 'prototype'
 
